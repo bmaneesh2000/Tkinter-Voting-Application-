@@ -27,3 +27,22 @@
 ### results
 
 ![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/2%203.png)
+
+## Final Version 3
+
+![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/3%201.png)
+
+![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/3%202.png)
+
+![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/3%203.png)
+
+![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/3%204.png)
+
+![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/3%205.png)
+
+![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/3%206.png)
+
+![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/3%207.png)
+
+
+
