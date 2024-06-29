@@ -11,3 +11,7 @@
 #Version 2
 
 ![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/2%201.png)
+
+![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/2%202.png)
+
+![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/2%203.png)
