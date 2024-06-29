@@ -53,16 +53,32 @@
 
 ![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/3%206.png)
 
-### Election 2 page Modified (instead of image button you have to select a image and click submit)
+### Election 2 page Modified (instead of image button you have to select an image and click submit)
 
 ![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/3%207.png)
 
-## Final Version 4
+## Version 4
 
 ### Select the image of each election and click submit
 
 ![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/4%201.png)
 
+## Version 5 (Full-screen version)
 
+### Vote page
+
+![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/5%201.png)
+
+### After voting
+
+![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/5%202.png)
+
+### Modified Vote page with 3 candidates
+
+![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/5%203.png)
+
+### Modified Vote page with 3 candidates in one but 2 in another 
+
+![alt text](https://github.com/bmaneesh2000/Tkinter-Voting-Application-/blob/main/Pics/5%204.png)
 
 
